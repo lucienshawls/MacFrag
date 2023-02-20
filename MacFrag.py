@@ -1,12 +1,3 @@
-
-# MacFrag is an efficient molecule fragmentation method, which is capable of segmenting large-scale molecules in a rapid speed and 
-# generating diverse fragments that are more compliant with the ¡°Rule of Three¡±. 
-
-# MacFrag is developed and maintained by Prof. HongLin Li's Group, School of Pharmacy, East China University of Science & Technology, Shanghai 200237, China. 
-# http://lilab-ecust.cn/
-
-
-
 from rdkit import Chem
 from rdkit.Chem.BRICS import BreakBRICSBonds
 from rdkit import RDLogger
